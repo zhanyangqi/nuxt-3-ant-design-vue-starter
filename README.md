@@ -9,8 +9,13 @@
 - [Ant Design Vue 官方文档](https://antdv.com/)
 
 ## 演示
+UI | 演示地址
+---|---
+Ant Design Vue 集成 | https://nuxt-3-ant-design-vue-starter.vercel.app
+Element Plus 集成 | https://nuxt-3-element-plus-starter.vercel.app
 
-https://nuxt-3-ant-design-vue-starter.vercel.app/
+## Element Plus集成nuxt脚手架
+https://github.com/matevip/nuxt-3-element-plus-starter
 
 ## Setup
 
