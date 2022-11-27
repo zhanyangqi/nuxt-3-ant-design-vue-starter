@@ -8,9 +8,13 @@
 
 - [Ant Design Vue 官方文档](https://antdv.com/)
 
+## 演示
+
+https://nuxt-3-ant-design-vue-starter.vercel.app/
+
 ## Setup
 
-### 安装依赖:
+### 安装依赖
 
 ```bash
 # yarn
