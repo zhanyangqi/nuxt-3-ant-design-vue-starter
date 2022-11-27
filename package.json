@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "serve": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0",
+    "nuxt-windicss": "^2.5.5",
+    "vite": "^3.2.4"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.5",
+    "ant-design-vue": "^3.2.15"
+  }
+}
